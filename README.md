@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+Eng. Abdulla Al-Jabri | م. عبدالله الجبري | Independent Researcher in Mathematics & Theoretical Physics
 <h1 align="center">📚 Jabri Nobble Research Repository</h1>
 <h2 align="center">Eng. Abdulla Al-Jabri | م. عبدالله الجبري</h2>
 
