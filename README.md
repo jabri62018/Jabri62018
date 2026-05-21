@@ -1,7 +1,7 @@
 
 <h2 align="center">Eng. Abdulla Al-Jabri | م. عبدالله علي الجبري | Independent Researcher in Mathematics & Theoretical Physics</h2>
 <h2 align="center">Jabri Nobile Research Repository</h2>
-<h2 align="center">م. عبدالله علي الجبري</h2>
+<h2 align="center">م. عبدالله محمد ناصر الجبري</h2>
 
 <p align="center">
 <b>License</b>: CC BY 4.0<br>
