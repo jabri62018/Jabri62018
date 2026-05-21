@@ -5,163 +5,193 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Abdulla Al-Jabri | المستودعات والأبحاث</title>
 <style>
-  :root { --bg:#0a0a0f; --fg:#e8e8f0; --muted:#8a8a9e; --acc:#6ae3ff; --border:#1f1f2e; }
-    * { box-sizing: border-box; }
-  body {
-    background: var(--bg);
-    color: var(--fg);
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Noto Kufi Arabic", sans-serif;
-    line-height: 1.7;
-    padding: 40px 20px;
-    margin: 0;
-  }
-  .container { max-width: 900px; margin: 0 auto; }
-  header { text-align: center; margin-bottom: 50px; border-bottom: 1px solid var(--border); padding-bottom: 30px; }
-  h1 { color: var(--acc); font-size: 2rem; margin: 0 0 10px; }
-  .subtitle { color: var(--muted); font-size: 1.1rem; }
-  h2 { 
-    color: var(--acc); 
-    margin: 50px 0 20px; 
-    border-bottom: 1px solid var(--border); 
-    padding-bottom: 10px;
-    font-size: 1.4rem;
-  }
-  .item {
-    border: 1px solid var(--border);
-    border-radius: 10px;
-    padding: 18px 20px;
-    margin-bottom: 14px;
-    background: #111122;
-  }
-  .item:hover { border-color: var(--acc); background: #1a1a2e; }
-  .item-title {
-    font-weight: 600;
-    font-size: 1.05rem;
-    margin-bottom: 6px;
-  }
-  .item-desc {
-    color: var(--muted);
-    font-size: 0.95rem;
-    margin-bottom: 10px;
-  }
-  a.link {
-    color: var(--acc);
-    text-decoration: none;
-    word-break: break-all;
-    font-family: monospace;
-    font-size: 0.9rem;
-  }
-  a.link:hover { text-decoration: underline; }
-  .dir-ltr { direction: ltr; text-align: left; }
+:root {
+  --bg:#0a0a0f; --fg:#e8e8f0; --muted:#8a8a9e; --acc:#6ae3ff; --border:#1f1f2e;
+}
+* { box-sizing: border-box; }
+body {
+  background: var(--bg); color: var(--fg);
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Noto Kufi Arabic", sans-serif;
+  line-height: 1.7; padding: 40px 20px; margin: 0;
+}
+.container { max-width: 900px; margin: 0 auto; }
+header {
+  text-align: center; margin-bottom: 50px;
+  border-bottom: 1px solid var(--border); padding-bottom: 30px;
+}
+h1 { color: var(--acc); font-size: 2rem; margin: 0 0 10px; }
+.subtitle { color: var(--muted); font-size: 1.1rem; }
+h2 {
+  color: var(--acc); margin: 50px 0 20px;
+  border-bottom: 1px solid var(--border); padding-bottom: 10px; font-size: 1.4rem;
+}
+.item {
+  border: 1px solid var(--border); border-radius: 10px;
+  padding: 18px 20px; margin-bottom: 14px; background: #111122;
+}
+.item:hover { border-color: var(--acc); background: #1a1a2e; }
+.item-title { font-weight: 600; font-size: 1.05rem; margin-bottom: 6px; }
+.item-desc { color: var(--muted); font-size: 0.95rem; margin-bottom: 10px; }
+a.link {
+  color: var(--acc); text-decoration: none;
+  word-break: break-all; font-family: monospace; font-size: 0.9rem;
+}
+a.link:hover { text-decoration: underline; }
+.dir-ltr { direction: ltr; text-align: left; }
 </style>
 </head>
 <body>
 <div class="container">
-  <header>
-    <h1>Abdulla Al-Jabri</h1>
-    <div class="subtitle">Independent Researcher | باحث مستقل<br>Millennium Problems, Zx Function, Riemann Hypothesis</div>
-  </header>
+<header>
+<h1>Abdulla Al-Jabri</h1>
+<div class="subtitle">Independent Researcher | باحث مستقل<br>Millennium Problems, Zx Function, Riemann Hypothesis</div>
+</header>
 
-  <h2>Main Repositories / المستودعات الرئيسية</h2>
+<h2>Main Repositories / المستودعات الرئيسية</h2>
+<div class="item">
+  <div class="item-title">1. Jabri_Nobila</div>
+  <div class="item-desc">Main repository for Millennium Problems proofs, papers, and reproducible notebooks.<br>المستودع الرئيسي لإثباتات مسائل الألفية، الأوراق البحثية، والدفاتر القابلة للإعادة للتحقق.</div>
+  <div class="dir-ltr"><a class="link" href="https://github.com/jabri62018/Jabri_Nobila">https://github.com/jabri62018/Jabri_Nobila</a></div>
+</div>
 
-  <div class="item">
-    <div class="item-title">1. Jabri_Nobila</div>
-    <div class="item-desc">
-      Main repository for Millennium Problems proofs, papers, and reproducible notebooks.<br>
-      المستودع الرئيسي لإثباتات مسائل الألفية، الأوراق البحثية، والدفاتر القابلة للإعادة للتحقق.
-    </div>
-    <div class="dir-ltr">
-      <a class="link" href="https://github.com/jabri62018/Jabri_Nobila">https://github.com/jabri62018/Jabri_Nobila</a>
-    </div>
-  </div>
+<div class="item">
+  <div class="item-title">2. jabri_lab</div>
+  <div class="item-desc">Computational experiments for Zx function: Planck, Spacetime, Dark Energy, Hubble, etc.<br>تجارب حسابية لدالة Zx وفيزياء بلانك، الزمكان، الطاقة المظلمة، هابل، وغيرها.</div>
+  <div class="dir-ltr"><a class="link" href="https://github.com/jabri62018/jabri_lab">https://github.com/jabri62018/jabri_lab</a></div>
+</div>
 
-  <div class="item">
-    <div class="item-title">2. jabri_lab</div>
-    <div class="item-desc">
-      Computational experiments for Zx function: Planck, Spacetime, Dark Energy, Hubble, etc.<br>
-      تجارب حسابية لدالة Zx وفيزياء بلانك، الزمكان، الطاقة المظلمة، هابل، وغيرها.
-    </div>
-    <div class="dir-ltr">
-      <a class="link" href="https://github.com/jabri62018/jabri_lab">https://github.com/jabri62018/jabri_lab</a>
-    </div>
-  </div>
+<div class="item">
+  <div class="item-title">3. Zx_Mother_Function_Jabri</div>
+  <div class="item-desc">Core theory and base implementation of the Zx mother function.<br>النظرية الأساسية والتطبيق الأولي لدالة Zx الأم.</div>
+  <div class="dir-ltr"><a class="link" href="https://github.com/jabri62018/Zx_Mother_Function_Jabri">https://github.com/jabri62018/Zx_Mother_Function_Jabri</a></div>
+</div>
 
-  <div class="item">
-    <div class="item-title">3. Zx_Mother_Function_Jabri</div>
-    <div class="item-desc">
-      Core theory and base implementation of the Zx mother function.<br>
-      النظرية الأساسية والتطبيق الأولي لدالة Zx الأم.
-    </div>
-    <div class="dir-ltr">
-      <a class="link" href="https://github.com/jabri62018/Zx_Mother_Function_Jabri">https://github.com/jabri62018/Zx_Mother_Function_Jabri</a>
-    </div>
-  </div>
+<div class="item">
+  <div class="item-title">4. Jabri-RiemannOS</div>
+  <div class="item-desc">Operating system framework for Riemann hypothesis verification.<br>إطار عمل نظام تشغيل للتحقق من فرضية ريمان.</div>
+  <div class="dir-ltr"><a class="link" href="https://github.com/jabri62018/Jabri-RiemannOS">https://github.com/jabri62018/Jabri-RiemannOS</a></div>
+</div>
 
-  <div class="item">
-    <div class="item-title">4. Jabri-RiemannOS</div>
-    <div class="item-desc">
-      Operating system framework for Riemann hypothesis verification.<br>
-      إطار عمل نظام تشغيل للتحقق من فرضية ريمان.
-    </div>
-    <div class="dir-ltr">
-      <a class="link" href="https://github.com/jabri62018/Jabri-RiemannOS">https://github.com/jabri62018/Jabri-RiemannOS</a>
-    </div>
-  </div>
+<div class="item">
+  <div class="item-title">5. Zx_RieOS_v1.1</div>
+  <div class="item-desc">Version 1.1 of Zx-Riemann OS with numerical validation.<br>الإصدار 1.1 من Zx-Riemann مع التحقق العددي للنظام.</div>
+  <div class="dir-ltr"><a class="link" href="https://github.com/jabri62018/Zx_RieOS_v1.1">https://github.com/jabri62018/Zx_RieOS_v1.1</a></div>
+</div>
 
-  <div class="item">
-    <div class="item-title">5. Zx_RieOS_v1.1</div>
-    <div class="item-desc">
-      Version 1.1 of Zx-Riemann OS with numerical validation.<br>
-      الإصدار 1.1 من Zx-Riemann مع التحقق العددي للنظام.
-    </div>
-    <div class="dir-ltr">
-      <a class="link" href="https://github.com/jabri62018/Zx_RieOS_v1.1">https://github.com/jabri62018/Zx_RieOS_v1.1</a>
-    </div>
-  </div>
+<div class="item">
+  <div class="item-title">6. Zx_RieOS_v1.2</div>
+  <div class="item-desc">Version 1.2 with improved algorithms and bug fixes.<br>الإصدار 1.2 مع خوارزميات محسنة وإصلاحات للأخطاء.</div>
+  <div class="dir-ltr"><a class="link" href="https://github.com/jabri62018/Zx_RieOS_v1.2">https://github.com/jabri62018/Zx_RieOS_v1.2</a></div>
+</div>
 
-  <div class="item">
-    <div class="item-title">6. Zx_RieOS_v1.2</div>
-    <div class="item-desc">
-      Version 1.2 with improved algorithms and bug fixes.<br>
-      الإصدار 1.2 مع خوارزميات محسنة وإصلاحات للأخطاء.
-    </div>
-    <div class="dir-ltr">
-      <a class="link" href="https://github.com/jabri62018/Zx_RieOS_v1.2">https://github.com/jabri62018/Zx_RieOS_v1.2</a>
-    </div>
-  </div>
+<div class="item">
+  <div class="item-title">7. Jabri_Nobble</div>
+  <div class="item-desc">Archive and experimental branch of Jabri_Nobila.<br>أرشيف والفرع التجريبي لمستودع Jabri_Nobila.</div>
+  <div class="dir-ltr"><a class="link" href="https://github.com/jabri62018/Jabri_Nobble">https://github.com/jabri62018/Jabri_Nobble</a></div>
+</div>
 
-  <div class="item">
-    <div class="item-title">7. Jabri_Nobble</div>
-    <div class="item-desc">
-      Archive and experimental branch of Jabri_Nobila.<br>
-      أرشيف والفرع التجريبي لمستودع Jabri_Nobila.
-    </div>
-    <div class="dir-ltr">
-      <a class="link" href="https://github.com/jabri62018/Jabri_Nobble">https://github.com/jabri62018/Jabri_Nobble</a>
-    </div>
-  </div>
+<div class="item">
+  <div class="item-title">8. Jabri_Checkout</div>
+  <div class="item-desc">Testing and validation scripts for cross-checking results.<br>سكربتات الاختبار والتحقق للمقارنة المتبادلة للنتائج.</div>
+  <div class="dir-ltr"><a class="link" href="https://github.com/jabri62018/Jabri_Checkout">https://github.com/jabri62018/Jabri_Checkout</a></div>
+</div>
 
-  <div class="item">
-    <div class="item-title">8. Jabri_Checkout</div>
-    <div class="item-desc">
-      Testing and validation scripts for cross-checking results.<br>
-      سكربتات الاختبار والتحقق للمقارنة المتبادلة للنتائج.
-    </div>
-    <div class="dir-ltr">
-      <a class="link" href="https://github.com/jabri62018/Jabri_Checkout">https://github.com/jabri62018/Jabri_Checkout</a>
-    </div>
-  </div>
+<h2>Published Papers with DOI / الأوراق المنشورة مع الروابط</h2>
 
-  <h2>Published Papers with DOI / الأوراق المنشورة مع الروابط</h2>
+<div class="item">
+  <div class="item-title">1. Riemann Hypothesis</div>
+  <div class="item-desc">DOI: 10.5281/zenodo.19081081</div>
+  <div class="dir-ltr"><a class="link" href="https://doi.org/10.5281/zenodo.19081081">https://doi.org/10.5281/zenodo.19081081</a></div>
+</div>
 
-  <div class="item">
-    <div class="item-title">1. Riemann Hypothesis</div>
-    <div class="item-desc">DOI: 10.5281/zenodo.19081081</div>
-    <div class="dir-ltr">
-      <a class="link" href="https://doi.org/10.5281/zenodo.19081081">https://doi.org/10.5281/zenodo.19081081</a>
-    </div>
-  </div>
+<div class="item">
+  <div class="item-title">2. Zx Function Dataset 1</div>
+  <div class="item-desc">DOI: 10.5281/zenodo.20145279</div>
+  <div class="dir-ltr"><a class="link" href="https://doi.org/10.5281/zenodo.20145279">https://doi.org/10.5281/zenodo.20145279</a></div>
+</div>
 
+<div class="item">
+  <div class="item-title">3. Zx Function Dataset 2</div>
+  <div class="item-desc">DOI: 10.5281/zenodo.20149618</div>
+  <div class="dir-ltr"><a class="link" href="https://doi.org/10.5281/zenodo.20149618">https://doi.org/10.5281/zenodo.20149618</a></div>
+</div>
+
+<div class="item">
+  <div class="item-title">4. Zx Function Dataset 3</div>
+  <div class="item-desc">DOI: 10.5281/zenodo.20148770</div>
+  <div class="dir-ltr"><a class="link" href="https://doi.org/10.5281/zenodo.20148770">https://doi.org/10.5281/zenodo.20148770</a></div>
+</div>
+
+<div class="item">
+  <div class="item-title">5. Zx Function Dataset 4</div>
+  <div class="item-desc">DOI: 10.5281/zenodo.20148344</div>
+  <div class="dir-ltr"><a class="link" href="https://doi.org/10.5281/zenodo.20148344">https://doi.org/10.5281/zenodo.20148344</a></div>
+</div>
+
+<div class="item">
+  <div class="item-title">6. Zx Function Dataset 5</div>
+  <div class="item-desc">DOI: 10.5281/zenodo.20145337</div>
+  <div class="dir-ltr"><a class="link" href="https://doi.org/10.5281/zenodo.20145337">https://doi.org/10.5281/zenodo.20145337</a></div>
+</div>
+
+<div class="item">
+  <div class="item-title">7. Zx Function Dataset 6</div>
+  <div class="item-desc">DOI: 10.5281/zenodo.20139904</div>
+  <div class="dir-ltr"><a class="link" href="https://doi.org/10.5281/zenodo.20139904">https://doi.org/10.5281/zenodo.20139904</a></div>
+</div>
+
+<div class="item">
+  <div class="item-title">8. Zx Function Dataset 7</div>
+  <div class="item-desc">DOI: 10.5281/zenodo.20114317</div>
+  <div class="dir-ltr"><a class="link" href="https://doi.org/10.5281/zenodo.20114317">https://doi.org/10.5281/zenodo.20114317</a></div>
+</div>
+
+<div class="item">
+  <div class="item-title">9. Zx Function Dataset 8</div>
+  <div class="item-desc">DOI: 10.5281/zenodo.20100628</div>
+  <div class="dir-ltr"><a class="link" href="https://doi.org/10.5281/zenodo.20100628">https://doi.org/10.5281/zenodo.20100628</a></div>
+</div>
+
+<div class="item">
+  <div class="item-title">10. Zx Function Dataset 9</div>
+  <div class="item-desc">DOI: 10.5281/zenodo.20100622</div>
+  <div class="dir-ltr"><a class="link" href="https://doi.org/10.5281/zenodo.20100622">https://doi.org/10.5281/zenodo.20100622</a></div>
+</div>
+
+<div class="item">
+  <div class="item-title">11. Zx Function Dataset 10</div>
+  <div class="item-desc">DOI: 10.5281/zenodo.20070594</div>
+  <div class="dir-ltr"><a class="link" href="https://doi.org/10.5281/zenodo.20070594">https://doi.org/10.5281/zenodo.20070594</a></div>
+</div>
+
+<div class="item">
+  <div class="item-title">12. Zx Function Dataset 11</div>
+  <div class="item-desc">DOI: 10.5281/zenodo.20148770</div>
+  <div class="dir-ltr"><a class="link" href="https://doi.org/10.5281/zenodo.20148770">https://doi.org/10.5281/zenodo.20148770</a></div>
+</div>
+
+<div class="item">
+  <div class="item-title">13. Zx Function Dataset 12</div>
+  <div class="item-desc">DOI: 10.5281/zenodo.19981688</div>
+  <div class="dir-ltr"><a class="link" href="https://doi.org/10.5281/zenodo.19981688">https://doi.org/10.5281/zenodo.19981688</a></div>
+</div>
+
+<h2>Source Repositories / مستودعات المصدر</h2>
+<div class="item">
+  <div class="item-title">13. Main GitHub Profile</div>
+  <div class="item-desc">All public repositories and source code</div>
+  <div class="dir-ltr"><a class="link" href="https://github.com/jabri62018">https://github.com/jabri62018</a></div>
+</div>
+
+<div class="item">
+  <div class="item-title">14. Jabri_Nobble Source</div>
+  <div class="item-desc">Experimental branch and archive</div>
+  <div class="dir-ltr"><a class="link" href="https://github.com/jabri62018/Jabri_Nobble">https://github.com/jabri62018/Jabri_Nobble</a></div>
+</div>
+
+<footer style="margin-top:50px; text-align:center; color:#666;">
+<p>🌹</p>
+</footer>
 </div>
 </body>
 </html>
