@@ -63,4 +63,4 @@ Independent Researcher in Mathematics & Theoretical Physics
 [doi.org/10.5281/zenodo.20145337](https://doi.org/10.5281/zenodo.20145337)
 
 **6. Jabri Identity**  
-[doi.org/10.5281/zenodo.20114317](https://doi.org/10.528
+[doi.org/10.5281/zenodo.20114317](https://doi.org/10.5281
