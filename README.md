@@ -1,4 +1,4 @@
-## Eng. Abdulla Mohammed Nasser Al-Jabri | م. عبدالله محمد ناصر الجبري
+## Eng. Abdulla Mohammed Nasser Al-Jabri | 賲. 毓亘丿丕賱賱賴 賲丨賲丿 賳丕氐乇 丕賱噩亘乇賷
 ### Independent Researcher in Mathematics & Theoretical Physics
 ### Zx Function & Millennium Problems Research
 
@@ -10,22 +10,22 @@ Independent Researcher in Mathematics & Theoretical Physics
 
 ---
 
-### Main Repositories / المستودعات الرئيسية
+### Main Repositories / 丕賱賲爻鬲賵丿毓丕鬲 丕賱乇卅賷爻賷丞
 
 **1. jabri_lab**  
 [github.com/jabri62018/jabri_lab](https://github.com/jabri62018/jabri_lab)  
 *Main repository for Zx function experiments and Millennium Problems proofs.*  
-المستودع الرئيسي لتجارب دالة Zx وإثباتات مسائل الألفية.
+丕賱賲爻鬲賵丿毓 丕賱乇卅賷爻賷 賱鬲噩丕乇亘 丿丕賱丞 Zx 賵廿孬亘丕鬲丕鬲 賲爻丕卅賱 丕賱兀賱賮賷丞.
 
 **2. Jabri_Nobble**  
 [github.com/jabri62018/Jabri_Nobble](https://github.com/jabri62018/Jabri_Nobble)  
 *Archive and experimental branch for Zx_RiemannOS.*  
-الأرشيف والفرع التجريبي لنظام Zx_RiemannOS.
+丕賱兀乇卮賷賮 賵丕賱賮乇毓 丕賱鬲噩乇賷亘賷 賱賳馗丕賲 Zx_RiemannOS.
 
 **3. Zx_RiemannOS**  
 [github.com/jabri62018/Zx_RiemannOS](https://github.com/jabri62018/Zx_RiemannOS)  
 *Operating system framework for Riemann hypothesis verification.*  
-إطار عمل نظام تشغيلي للتحقق من فرضية ريمان.
+廿胤丕乇 毓賲賱 賳馗丕賲 鬲卮睾賷賱賷 賱賱鬲丨賯賯 賲賳 賮乇囟賷丞 乇賷賲丕賳.
 
 **4. Zx_RieOS_v1.2**  
 [github.com/jabri62018/Zx_RieOS_v1.2](https://github.com/jabri62018/Zx_RieOS_v1.2)  
@@ -45,7 +45,7 @@ Independent Researcher in Mathematics & Theoretical Physics
 
 ---
 
-### Published Papers with DOI / الأوراق المنشورة
+### Published Papers with DOI / 丕賱兀賵乇丕賯 丕賱賲賳卮賵乇丞
 
 **1. Riemann Hypothesis**  
 [doi.org/10.5281/zenodo.20139904](https://doi.org/10.5281/zenodo.20139904)
