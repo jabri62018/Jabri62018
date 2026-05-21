@@ -1,6 +1,6 @@
-<h2 align="center">Eng. Abdulla Mohammed Nasser Al-Jabri | 賲. 毓亘丿丕賱賱賴 賲丨賲丿 賳丕氐乇 丕賱噩亘乇賷</h2>
+<h2 align="center">Eng. Abdulla Mohammed Nasser Al-Jabri | م. عبدالله محمد ناصر الجبري</h2>
 <h2 align="center">Independent Researcher in Mathematics & Theoretical Physics</h2>
-<h2 align="center">Jabri Nobile Research Repository</h2>
+<h2 align="center">Zx Function & Millennium Problems Research</h2>
 
 <p align="center">
 <b>License</b>: CC BY 4.0<br>
@@ -14,81 +14,92 @@ Independent Researcher in Mathematics & Theoretical Physics<br>
 
 ---
 
-### Main Repositories / 丕賱賲爻鬲賵丿毓丕鬲 丕賱乇卅賷爻賷丞
+### Main Repositories / المستودعات الرئيسية
 
-**1. Jabri_Nobila**  
-https://github.com/jabri62018/Jabri_Nobila  
-*Main repository for Millennium Problems proofs, papers, and reproducible notebooks.*  
-丕賱賲爻鬲賵丿毓 丕賱乇卅賷爻賷 賱廿孬亘丕鬲丕鬲 賲爻丕卅賱 丕賱兀賱賮賷丞貙 丕賱兀賵乇丕賯 丕賱亘丨孬賷丞貙 賵丕賱丿賮丕鬲乇 丕賱賯丕亘賱丞 賱賱鬲丨賯賯.
-
-**2. jabri_lab**  
+**1. jabri_lab**  
 https://github.com/jabri62018/jabri_lab  
-*Computational experiments for Zx function: Planck, Spacetime, Dark Energy, Hubble, etc.*  
-丕賱鬲噩丕乇亘 丕賱丨爻丕亘賷丞 賱丿丕賱丞 Zx 賮賷 賲噩丕賱丕鬲 亘賱丕賳賰貙 丕賱夭賲賰丕賳貙 丕賱胤丕賯丞 丕賱賲馗賱賲丞貙 賴丕亘賱貙 賵睾賷乇賴丕.
+*Main repository for Zx function experiments and Millennium Problems proofs.*  
+المستودع الرئيسي لتجارب دالة Zx وإثباتات مسائل الألفية.
 
-**3. Zx_Mother_Function_Jabri**  
-https://github.com/jabri62018/Zx_Mother_Function_Jabri  
-*Core theory and base implementation of the Zx mother function.*  
-丕賱賳馗乇賷丞 丕賱兀爻丕爻賷丞 賵丕賱鬲胤亘賷賯 丕賱兀賵賱賷 賱丿丕賱丞 Zx 丕賱兀賲.
+**2. Jabri_Nobble**  
+https://github.com/jabri62018/Jabri_Nobble  
+*Archive and experimental branch for Zx_RiemannOS.*  
+الأرشيف والفرع التجريبي لنظام Zx_RiemannOS.
 
-**4. Jabri-RiemannOS**  
-https://github.com/jabri62018/Jabri-RiemannOS  
+**3. Zx_RiemannOS**  
+https://github.com/jabri62018/Zx_RiemannOS  
 *Operating system framework for Riemann hypothesis verification.*  
-廿胤丕乇 毓賲賱 賳馗丕賲 鬲卮睾賷賱賷 賱賱鬲丨賯賯 賲賳 賮乇囟賷丞 乇賷賲丕賳.
+إطار عمل نظام تشغيلي للتحقق من فرضية ريمان.
+
+**4. Zx_RieOS_v1.2**  
+https://github.com/jabri62018/Zx_RieOS_v1.2  
+*Version 1.2 with improved algorithms and bug fixes.*  
+الإصدار 1.2 مع خوارزميات محسّنة وإصلاحات للأخطاء.
 
 **5. Zx_RieOS_v1.1**  
 https://github.com/jabri62018/Zx_RieOS_v1.1  
 *Version 1.1 of Zx-Riemann OS with numerical validation.*  
-丕賱廿氐丿丕乇 1.1 賲賳 賳馗丕賲 Zx-Riemann 賲毓 丕賱鬲丨賯賯 丕賱毓丿丿賷.
+الإصدار 1.1 مع التحقق العددي.
 
-**6. Zx_RieOS_v1.2**  
-https://github.com/jabri62018/Zx_RieOS_v1.2  
-*Version 1.2 with improved algorithms and bug fixes.*  
-丕賱廿氐丿丕乇 1.2 賲毓 禺賵丕乇夭賲賷丕鬲 賲丨爻賾賳丞 賵廿氐賱丕丨丕鬲 賱賱兀禺胤丕亍.
+**6. Zx_Mother_Function_Jabri**  
+https://github.com/jabri62018/Zx_Mother_Function_Jabri  
+*Core theory and base implementation of the Zx mother function.*  
+النظرية الأساسية والتطبيق الأولي لدالة Zx الأم.
 
-**7. Jabri_Nobble**  
-https://github.com/jabri62018/Jabri_Nobble  
-*Archive and experimental branch of Jabri_Nobila.*  
-兀乇卮賷賮 賵丕賱賮乇毓 丕賱鬲噩乇賷亘賷 賱賲爻鬲賵丿毓 Jabri_Nobila.
-
-**8. Jabri_Checkout**  
+**7. Jabri_Checkout**  
 https://github.com/jabri62018/Jabri_Checkout  
 *Testing and validation scripts for cross-checking results.*  
-爻賰乇亘鬲丕鬲 丕賱丕禺鬲亘丕乇 賵丕賱鬲丨賯賯 賱賱賲賯丕乇賳丞 丕賱賲鬲亘丕丿賱丞 賱賱賳鬲丕卅噩.
+سكربتات الاختبار والتحقق للمقارنة المتبادلة للنتائج.
 
 ---
 
-### Published Papers with DOI / 丕賱兀賵乇丕賯 丕賱賲賳卮賵乇丞 賲毓 丕賱乇賵丕亘胤
+### Published Papers with DOI / الأوراق المنشورة مع الروابط
 
 **1. Riemann Hypothesis**  
-DOI: 10.5281/zenodo.19081081  
-https://doi.org/10.5281/zenodo.19081081
+DOI: 10.5281/zenodo.20139904  
+https://doi.org/10.5281/zenodo.20139904
 
 **2. P vs NP**  
-DOI: 10.5281/zenodo.16012729  
-https://doi.org/10.5281/zenodo.16012729
+DOI: 10.5281/zenodo.20145279  
+https://doi.org/10.5281/zenodo.20145279
 
 **3. Yang-Mills Mass Gap**  
-DOI: 10.5281/zenodo.20466361  
-https://doi.org/10.5281/zenodo.20466361
+DOI: 10.5281/zenodo.20148344  
+https://doi.org/10.5281/zenodo.20148344
 
-**4. Navier-Stokes Existence and Smoothness**  
-DOI: 10.5281/zenodo.2614615  
-https://doi.org/10.5281/zenodo.2614615
+**4. Navier-Stokes**  
+DOI: 10.5281/zenodo.20149618  
+https://doi.org/10.5281/zenodo.20149618
+
+**5. Zx_RiemannOS v1.3**  
+DOI: 10.5281/zenodo.20145337  
+https://doi.org/10.5281/zenodo.20145337
+
+**6. Jabri Identity**  
+DOI: 10.5281/zenodo.20114317  
+https://doi.org/10.5281/zenodo.20114317
+
+**7. Zx_RieOS v1.2 Gold**  
+DOI: 10.5281/zenodo.20100622  
+https://doi.org/10.5281/zenodo.20100622
+
+**8. Zx_RieOS v1.1**  
+DOI: 10.5281/zenodo.20070594  
+https://doi.org/10.5281/zenodo.20070594
 
 ---
 
-### Contact & Identifiers / 丕賱鬲賵丕氐賱 賵丕賱賲毓乇賾賮丕鬲
+### Contact & Identifiers / التواصل والمعرّفات
 
 **ORCID**: 0009-0001-1319-3622  
-https://orcid.org/0009-0001-1319-3622
+https://orcid.org/0009-0001-1319-3622  
 
-**Email**: jabri.2018@gmail.com
+**Email**: jabri.2018@gmail.com  
 
-**GitHub Pages**: https://jabri2018.github.io/Jabri_Nobile/
+**GitHub Pages**: https://jabri62018.github.io/jabri_lab/
 
 ---
 
 <p align="center">
-From Sana'a to the Universe / 賲賳 氐賳毓丕亍 廿賱賶 丕賱賰賵賳 馃嚲馃嚜
+From Sana'a to the Universe / من صنعاء إلى الكون 🇾🇪
 </p>
