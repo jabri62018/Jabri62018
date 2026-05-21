@@ -1,7 +1,6 @@
-
-<h2 align="center">Eng. Abdulla Al-Jabri | م. عبدالله محمد الجبري | Independent Researcher in Mathematics & Theoretical Physics</h2>
+<h2 align="center">Eng. Abdulla Mohammed Nasser Al-Jabri | م. عبدالله محمد ناصر الجبري</h2>
+<h2 align="center">Independent Researcher in Mathematics & Theoretical Physics</h2>
 <h2 align="center">Jabri Nobile Research Repository</h2>
-<h2 align="center">م. عبدالله محمد ناصر الجبري</h2>
 
 <p align="center">
 <b>License</b>: CC BY 4.0<br>
@@ -20,11 +19,11 @@ Independent Researcher in Mathematics & Theoretical Physics<br>
 **1. Jabri_Nobila**  
 https://github.com/jabri62018/Jabri_Nobila  
 *Main repository for Millennium Problems proofs, papers, and reproducible notebooks.*  
-المستودع الرئيسي لإثباتات مسائل الألفية، الأوراق البحثية، ودفاتر الملاحظات القابلة للتحقق.
+المستودع الرئيسي لإثباتات مسائل الألفية، الأوراق البحثية، والدفاتر القابلة للتحقق.
 
 **2. jabri_lab**  
 https://github.com/jabri62018/jabri_lab  
-*Computational experiments for Zx function across Planck, Spacetime, Dark Energy, Hubble, etc.*  
+*Computational experiments for Zx function: Planck, Spacetime, Dark Energy, Hubble, etc.*  
 التجارب الحسابية لدالة Zx في مجالات بلانك، الزمكان، الطاقة المظلمة، هابل، وغيرها.
 
 **3. Zx_Mother_Function_Jabri**  
@@ -61,19 +60,19 @@ https://github.com/jabri62018/Jabri_Checkout
 
 ### Published Papers with DOI / الأوراق المنشورة مع الروابط
 
-**1. Riemann Hypothesis / فرضية ريمان**  
+**1. Riemann Hypothesis**  
 DOI: 10.5281/zenodo.19081081  
 https://doi.org/10.5281/zenodo.19081081
 
-**2. P vs NP / مسألة P مقابل NP**  
+**2. P vs NP**  
 DOI: 10.5281/zenodo.16012729  
 https://doi.org/10.5281/zenodo.16012729
 
-**3. Yang-Mills Mass Gap / فجوة كتلة يانغ-ميلز**  
+**3. Yang-Mills Mass Gap**  
 DOI: 10.5281/zenodo.20466361  
 https://doi.org/10.5281/zenodo.20466361
 
-**4. Navier-Stokes Existence and Smoothness / وجود وسلاسة نافييه-ستوكس**  
+**4. Navier-Stokes Existence and Smoothness**  
 DOI: 10.5281/zenodo.2614615  
 https://doi.org/10.5281/zenodo.2614615
 
